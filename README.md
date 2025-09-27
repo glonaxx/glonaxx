@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/204a154b-09a3-4840-8516-215269fd734f)
+![image](https://pin.it/7J6KlmOUf)
 <!--
 **glonaxx/glonaxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
