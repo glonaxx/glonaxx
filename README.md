@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/206d6acb-5be3-4b94-8177-ded39cc268e7)
-
-
+🖇️
+pretty friendly
 <!--
 **glonaxx/glonaxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
